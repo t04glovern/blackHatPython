@@ -160,7 +160,7 @@ def receive_from(connection):
                 break
 
             buffer += data
-        
+
     except:
         pass
 
